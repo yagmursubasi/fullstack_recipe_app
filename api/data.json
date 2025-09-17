@@ -1,29 +1,5 @@
 [
   {
-    "id": "asdasdf34asda43242asd",
-    "recipeName": "Mercimekkk",
-    "category": "Yemek",
-    "ingredients": ["1", "2", "3", "4"],
-    "instructions": [
-      "Mercimeği yıkayın ve süzün.",
-      "Soğanı doğrayın",
-      " havuç ve patatesi küçük küpler halinde kesin.",
-      "Sıvı yağı bir tencerede ısıtın",
-      " doğranmış soğanı ekleyin ve pembeleşene kadar kavurun.",
-      "Havuç ve patatesi ekleyip birkaç dakika daha kavurun.",
-      "Mercimeği ekleyin",
-      " suyu ekleyin ve kaynamaya bırakın.",
-      "Kaynadıktan sonra altını kısıp tencerenin kapağını kapatın",
-      " mercimekler iyice yumuşayana kadar pişirin.",
-      "Çorbayı blenderdan geçirin",
-      " tuz ve baharatları ekleyin.",
-      "Limon suyu ile servis yapın."
-    ],
-    "recipeTime": "25",
-    "servingSuggestion": "Mercimek çorbası, yanında taze ekmekle servis edilebilir.",
-    "image": "https://picsum.photos/501"
-  },
-  {
     "id": "asdasda43242dsfgdfhg",
     "recipeName": "Spagetti Bolognese",
     "category": "Ana Yemek",
@@ -110,16 +86,6 @@
     "image": "https://picsum.photos/seed/8cdd-36e02c24fd55/500/500"
   },
   {
-    "recipeName": "Vişne Suyu",
-    "category": "İçecek",
-    "recipeTime": "14",
-    "servingSuggestion": "bardakta...\n",
-    "ingredients": ["vişne", "su"],
-    "instructions": ["vişneyi.."],
-    "image": "https://picsum.photos/576",
-    "id": "682b6aa3-6e61-443d-8dad-ff9963338e97"
-  },
-  {
     "recipeName": "Kısır",
     "category": "Salata",
     "ingredients": [
@@ -145,5 +111,54 @@
     "servingSuggestion": "Kısır, marul yaprakları ile birlikte servis edilebilir.",
     "id": "70759435-a81c-4a59-be09-236d378debd1",
     "image": "https://picsum.photos/seed/fc2b7f23-17c1-4ac3-8cdd-36e02c24fd55/500/500"
+  },
+  {
+    "recipeName": "Tavuk Sote",
+    "category": "Ana Yemek",
+    "ingredients": [
+      "300g tavuk göğsü",
+      "1 soğan",
+      "1 kırmızı biber",
+      "1 yeşil biber",
+      "2 yemek kaşığı sıvı yağ",
+      "Tuz",
+      "Karabiber"
+    ],
+    "instructions": [
+      "Tavukları kuşbaşı doğrayın.",
+      "Soğan ve biberleri doğrayın.",
+      "Sıvı yağda soğanı kavurun.",
+      "Biberleri ekleyin ve birkaç dakika soteleyin.",
+      "Tavukları ekleyip pişene kadar soteleyin.",
+      "Tuz ve karabiber ile tatlandırın."
+    ],
+    "recipeTime": "20",
+    "servingSuggestion": "Pilav ve salata ile servis edilebilir.",
+    "id": "946b339d-02b7-4f7c-9f5d-5a0ca1608a4b",
+    "image": "https://picsum.photos/seed/1826b87f-ce93-42f5-ab02-4202027e0909/500/500"
+  },
+  {
+    "recipeName": "Mercimek",
+    "category": "Çorba",
+    "ingredients": [
+      "1 soğan",
+      "1 kırmızı biber",
+      "1 yeşil biber",
+      "2 yemek kaşığı sıvı yağ",
+      "Tuz",
+      "Karabiber"
+    ],
+    "instructions": [
+      "Tavukları kuşbaşı doğrayın.",
+      "Soğan ve biberleri doğrayın.",
+      "Sıvı yağda soğanı kavurun.",
+      "Biberleri ekleyin ve birkaç dakika soteleyin.",
+      "Tavukları ekleyip pişene kadar soteleyin.",
+      "Tuz ve karabiber ile tatlandırın."
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Pilav ve salata ile servis edilebilir.",
+    "id": "ab977f63-30fd-4684-91d5-13aa5b937ea9",
+    "image": "https://picsum.photos/seed/7b8a21d8-4f0c-478a-af80-4d2734c959e2/500/500"
   }
 ]
